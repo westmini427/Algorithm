@@ -1,1 +1,1 @@
-a = input()
+a = input()뿡빵뿡빵뿡
